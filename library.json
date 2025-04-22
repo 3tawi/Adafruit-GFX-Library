@@ -1,0 +1,22 @@
+{
+  "name": "GP GFX",
+  "keywords": "GP_GFX, 3tawi",
+  "description": "The graphics support for the ESP32.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/3tawi/GP_GFX.git"
+  },
+  "authors":
+  [
+    {
+      "name": "3tawi",
+      "email": "",
+      "url": "https://github.com/3tawi",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
